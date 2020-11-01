@@ -4,14 +4,14 @@
 
 综述性文章：
 
-Deep learning for sensor-based human activity recognition: overview, challenges and opportunities.
+1. **Deep learning for sensor-based human activity recognition: overview, challenges and opportunities.**
 
 Chen, Kaixuan, et al.
 
 arXiv preprint arXiv:2001.07416 (2020).
 
 
-Deep learning for sensor-based activity recognition: A survey.
+2. **Deep learning for sensor-based activity recognition: A survey.**
 
 Wang, Jindong, et al.
 
@@ -19,7 +19,7 @@ Pattern Recognition Letters 119 (2019): 3-11.
 
 https://arxiv.org/abs/1707.03502
 
-Multimodal deep learning for activity and context recognition.
+3. **Multimodal deep learning for activity and context recognition.**
 
 Radu, Valentin, et al. 
 
@@ -31,7 +31,7 @@ https://www.repository.cam.ac.uk/bitstream/handle/1810/293497/main_no_copyright.
 
 Baseline 方法：
 
-Deep Convolutional and LSTM Recurrent Neural Networks for Multimodal Wearable Activity Recognition[J]
+1. **Deep Convolutional and LSTM Recurrent Neural Networks for Multimodal Wearable Activity Recognition[J].**
 
 Ordóñez F J, Roggen D
 
@@ -54,7 +54,7 @@ TBA
 
 ## 时间序列学习资料：
 
-Time series classification using multi-channels deep convolutional neural networks[C]
+1 .**Time series classification using multi-channels deep convolutional neural networks[C].**
 
 Zheng Y, Liu Q, Chen E, et al
 
