@@ -61,3 +61,9 @@ TBA
     International Conference on Web-Age Information Management. Springer International Publishing, 2014: 298-310.
 
 ## 国内外研究团队：
+
+Andrew Campbell，Dartmouth教授，普适计算领域泰斗级人物，着重研究智能手机和传感器下的行为识别。Google Scholar引用超20000次。
+
+Tanzeem Choudhury，MIT Media Lab毕业，现在Cornell副教授。MIT评为全球最年轻的35岁以下科学家，行为识别领域专家。Google Scholar引用超6000次。
+
+Nic Lane，PhD in Dartmouth。Bell Labs，MSRA。主要研究方向为人群多样性条件下的行为识别。Google Scholar引用超5000次。
