@@ -46,19 +46,17 @@ Baseline 方法：
 
 
 
-## 情境识别与行为识别的挑战：
-TBA
+## 情境识别与行为识别的公开数据集：
+
+https://github.com/Super-Shen/ContextRecognition/blob/main/dataset.md
 
 ## 基于深度学习的情境/行为识别学习资料：
-TBA
+
+
 
 ## 时间序列学习资料：
 
-1 .**Time series classification using multi-channels deep convolutional neural networks[C].**
-
-    Zheng Y, Liu Q, Chen E, et al
-
-    International Conference on Web-Age Information Management. Springer International Publishing, 2014: 298-310.
+https://github.com/Super-Shen/ContextRecognition/blob/main/TimeSeriesLearning.md
 
 ## 国内外研究团队：
 
