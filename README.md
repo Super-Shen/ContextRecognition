@@ -9,6 +9,8 @@
     Chen, Kaixuan, et al.
 
     arXiv preprint arXiv:2001.07416 (2020).
+    
+    https://arxiv.org/pdf/2001.07416.pdf
 
 
 2. **Deep learning for sensor-based activity recognition: A survey.**
@@ -36,6 +38,8 @@ Baseline 方法：
     Ordóñez F J, Roggen D
 
     Sensors, 2016, 16(1): 115.
+    
+    
 
 
 2. **Recognizing detailed human context in the wild from smartphones and smartwatches.[J] **
@@ -50,9 +54,9 @@ Baseline 方法：
 
 https://github.com/Super-Shen/ContextRecognition/blob/main/dataset.md
 
-## 基于深度学习的情境/行为识别学习资料：
+## 机器学习资料：
 
-
+https://github.com/Super-Shen/MachineLearningStudy
 
 ## 时间序列学习资料：
 
@@ -60,8 +64,8 @@ https://github.com/Super-Shen/ContextRecognition/blob/main/TimeSeriesLearning.md
 
 ## 国内外研究团队：
 
-Andrew Campbell，Dartmouth教授，普适计算领域泰斗级人物，着重研究智能手机和传感器下的行为识别。Google Scholar引用超20000次。
+1. Andrew Campbell，Dartmouth教授，普适计算领域泰斗级人物，着重研究智能手机和传感器下的行为识别。Google Scholar引用超20000次。
 
-Tanzeem Choudhury，MIT Media Lab毕业，现在Cornell副教授。MIT评为全球最年轻的35岁以下科学家，行为识别领域专家。Google Scholar引用超6000次。
+2. Tanzeem Choudhury，MIT Media Lab毕业，现在Cornell副教授。MIT评为全球最年轻的35岁以下科学家，行为识别领域专家。Google Scholar引用超6000次。
 
-Nic Lane，PhD in Dartmouth。Bell Labs，MSRA。主要研究方向为人群多样性条件下的行为识别。Google Scholar引用超5000次。
+3. Nic Lane，PhD in Dartmouth。Bell Labs，MSRA。主要研究方向为人群多样性条件下的行为识别。Google Scholar引用超5000次。
